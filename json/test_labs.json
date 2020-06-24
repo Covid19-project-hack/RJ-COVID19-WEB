@@ -1,0 +1,148 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "name": "Sawai Man Singh Medical College, Jaipur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "2",
+            "name": " Rajasthan University of Health Sciences Medical College, Jaipur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "3",
+            "name": " Dr Sampurnan and Medical College, Jodhpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "4",
+            "name": " Jhalawar Medical College, Jhalawar",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "5",
+            "name": " RNT Medical College, Udaipur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "6",
+            "name": " SP Medical College, Bikaner",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "7",
+            "name": " All India Institute of Medical Sciences, Jodhpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "8",
+            "name": " JLN Medical College, Ajmer",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "9",
+            "name": " Govt Medical College, Kota",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "10",
+            "name": " ICMR National Institute for Implementation Research on Non Communicable Diseases, Jodhpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "11",
+            "name": " RVRS Govt Medical College, Bhilwara",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "12",
+            "name": " Govt Medical College, Dungarpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "13",
+            "name": " Pandit Deendayal Upadhyaya Medical College, Churu",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "14",
+            "name": " Govt Medical College, Bharatpur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "15",
+            "name": " Govt Medical College, Sikar",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "16",
+            "name": " Govt Medical College, Barmer",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "17",
+            "name": " Govt Medical College, Pali ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "18",
+            "name": " Govt BDK District Hospital, Jhunjhunu",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "19",
+            "name": " Military Hospital, Jaipur",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "20",
+            "name": " District Hospital, Sirohi ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "21",
+            "name": " Central Lab, The Mahatma Gandhi University of Medical Sciences and Technology, RIICO Institution Area, Sitapura, Tonk Road, Jaipur",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "22",
+            "name": " Dr B Lal Clinical Lab Pvt Ltd, E, Malviya Industrial Area, Malviya Nagar, Jaipur",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "23",
+            "name": " Brig T K Narayanan Dept of Pathology, Santokaba Durlabhji Memorial Hospital Cum Medical Research Institute, Jaipur TruNat and RTPCR ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "24",
+            "name": " Jaipur National University Institute for Medical Sciences and Research Centre, Jaipur ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        }
+    ]
+}

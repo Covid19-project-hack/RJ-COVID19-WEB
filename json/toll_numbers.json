@@ -1,0 +1,301 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "district": "Ajmer",
+            "name": "Arvind Sengava",
+            "dest": "ADM",
+            "mobile": "9414003585",
+            "landline": "0145-2628932, 0145-2630304",
+            "control_room": "0145-2631111"
+        },
+        {
+            "sno": "2",
+            "district": "Alwar",
+            "name": "Ramcharan Sharma",
+            "dest": "ADM",
+            "mobile": "9414017788",
+            "landline": "1442338000",
+            "control_room": "0144-2340145"
+        },
+        {
+            "sno": "3",
+            "district": "Banswara",
+            "name": "Naresh Kumar",
+            "dest": "ADM",
+            "mobile": "9460581403",
+            "landline": "02962-248420",
+            "control_room": "02962-251303"
+        },
+        {
+            "sno": "4",
+            "district": "Baran",
+            "name": "MOHAMMED ABUBAKR (OIC)",
+            "dest": "ADM",
+            "mobile": "9414345764",
+            "landline": "07453-237081",
+            "control_room": "07453-230451"
+        },
+        {
+            "sno": "5",
+            "district": "Barmer",
+            "name": "Rakesh Kumar",
+            "dest": "ADM",
+            "mobile": "9414417034",
+            "landline": "02982-222226",
+            "control_room": "02982-230462"
+        },
+        {
+            "sno": "6",
+            "district": "Bharatpur",
+            "name": "Naresh Kumar Malav",
+            "dest": "ADM",
+            "mobile": "9680598666",
+            "landline": "05644-220388",
+            "control_room": "05644-223660"
+        },
+        {
+            "sno": "7",
+            "district": "Bhilwara",
+            "name": "NARENDRA JAIN",
+            "dest": "ADM",
+            "mobile": "9950658669, 9549599555",
+            "landline": "01482-233030, 01482-232626",
+            "control_room": "01482-232643"
+        },
+        {
+            "sno": "8",
+            "district": "Bikaner",
+            "name": "A.H. Gauri (OIC)",
+            "dest": "ADM",
+            "mobile": "9413386786",
+            "landline": "0151-2226031",
+            "control_room": "0151-2204989"
+        },
+        {
+            "sno": "9",
+            "district": "Bundi",
+            "name": "AMANULLAH KHAN",
+            "dest": "ADM",
+            "mobile": "9166850738",
+            "landline": "0747-2442305",
+            "control_room": "0747-2442895"
+        },
+        {
+            "sno": "10",
+            "district": "Chittorgarh",
+            "name": "Mukesh Kumar Kalal",
+            "dest": "ADM",
+            "mobile": "9166550509",
+            "landline": "01472-244923",
+            "control_room": "01472-245813"
+        },
+        {
+            "sno": "11",
+            "district": "Churu",
+            "name": "RAMSWAROOP CHAUHAN",
+            "dest": "CEO, J.P",
+            "mobile": "9772887700",
+            "landline": "01562-251322",
+            "control_room": "01567-222038, 01562-251160"
+        },
+        {
+            "sno": "12",
+            "district": "Dausa",
+            "name": "LOKESH MEENA",
+            "dest": "ADM",
+            "mobile": "9680024241",
+            "landline": "01427-224903, 01427-223884",
+            "control_room": "7891510014"
+        },
+        {
+            "sno": "13",
+            "district": "Dholpur",
+            "name": "SHIVCHARAN MEENA",
+            "dest": "CEO, J.P",
+            "mobile": "7976984237",
+            "landline": "05642-220033",
+            "control_room": "7691837290"
+        },
+        {
+            "sno": "14",
+            "district": "Dungarpur",
+            "name": "KRISHNAPAL SINGH CHAUHAN",
+            "dest": "ADM",
+            "mobile": "9460077701",
+            "landline": "02964-232262",
+            "control_room": "02964-232486"
+        },
+        {
+            "sno": "15",
+            "district": "Hanumangarh",
+            "name": "Ashok Aseeja",
+            "dest": "ADM",
+            "mobile": "9413381666",
+            "landline": "01552-260299",
+            "control_room": "01552-261190"
+        },
+        {
+            "sno": "16",
+            "district": "jaipur",
+            "name": "ASHOK KUMAR",
+            "dest": "ADM",
+            "mobile": "9414288006",
+            "landline": "0141-2204475, 0141-2204476",
+            "control_room": "0141-2605858, 0141-2603426"
+        },
+        {
+            "sno": "17",
+            "district": "Jaisalmer",
+            "name": "OMPRAKASH VISHNOI",
+            "dest": "ADM",
+            "mobile": "9413321521",
+            "landline": "02992-250082",
+            "control_room": "02992-294116"
+        },
+        {
+            "sno": "18",
+            "district": "Jalore",
+            "name": "Chhgan Lal Goyal",
+            "dest": "ADM",
+            "mobile": "9929257800",
+            "landline": "02977-222216",
+            "control_room": "02973-222246"
+        },
+        {
+            "sno": "19",
+            "district": "Jhalawar",
+            "name": "RAMJEEVAN MEENA",
+            "dest": "ADM",
+            "mobile": "9413305147",
+            "landline": "07432-230645, 07432-230646",
+            "control_room": "07432-230009"
+        },
+        {
+            "sno": "20",
+            "district": "Jhunjhunu",
+            "name": "RAJENDRA PRASAD AGARWAL",
+            "dest": "ADM",
+            "mobile": "9414111395",
+            "landline": "01592-232237",
+            "control_room": "01592-232415, 01592-235035"
+        },
+        {
+            "sno": "21",
+            "district": "Jodhpur",
+            "name": "M.L.Nehra",
+            "dest": "ADM",
+            "mobile": "9829600059",
+            "landline": "0291-2555560",
+            "control_room": "0291-2511085"
+        },
+        {
+            "sno": "22",
+            "district": "Karauli",
+            "name": "Sh. Sudarshan Singh Tomar",
+            "dest": "ADM",
+            "mobile": "9828410620",
+            "landline": "07464-251335, 07464-250205",
+            "control_room": "07464-220029"
+        },
+        {
+            "sno": "23",
+            "district": "Kota",
+            "name": "R D MEENA",
+            "dest": "ADM",
+            "mobile": "9414284703",
+            "landline": "0744-2325342, 0744-2323557",
+            "control_room": "0744-2329259"
+        },
+        {
+            "sno": "24",
+            "district": "Nagaur",
+            "name": "MANOJ KUMAR SHARMA",
+            "dest": "ADM",
+            "mobile": "9928876968",
+            "landline": "01582-240830, 01582-247001",
+            "control_room": "01582-240844, 9001019898"
+        },
+        {
+            "sno": "25",
+            "district": "Pali",
+            "name": "Veerendra Singh Choudhary",
+            "dest": "ADM",
+            "mobile": "9602009393",
+            "landline": "02932-222423",
+            "control_room": "02932-257555"
+        },
+        {
+            "sno": "26",
+            "district": "Pratapgarh",
+            "name": "Gopal Lal Swarankar",
+            "dest": "ADM",
+            "mobile": "8769042373",
+            "landline": "01478-222333, 01478-222029",
+            "control_room": "01478-222564, 9116713168"
+        },
+        {
+            "sno": "27",
+            "district": "Rajsamand",
+            "name": "Rakesh Kumar",
+            "dest": "ADM",
+            "mobile": "9461059603",
+            "landline": "02952-222520, 02952-222585",
+            "control_room": "02952-221716"
+        },
+        {
+            "sno": "28",
+            "district": "Sawai Madhopur",
+            "name": "Bhawani Shankar Panwar",
+            "dest": "ADM",
+            "mobile": "9610723623",
+            "landline": "07462-220201",
+            "control_room": "07462-235011"
+        },
+        {
+            "sno": "29",
+            "district": "Sikar",
+            "name": "JAIPRAKASH NARAYAN",
+            "dest": "ADM",
+            "mobile": "9530487850",
+            "landline": "01572-251008, 01572-248216",
+            "control_room": "01572-248211"
+        },
+        {
+            "sno": "30",
+            "district": "Sirohi",
+            "name": "RICHHPAL SINGH",
+            "dest": "ADM",
+            "mobile": "9414732101",
+            "landline": "02972-225327",
+            "control_room": "02972-222259"
+        },
+        {
+            "sno": "31",
+            "district": "Sri Ganganagar",
+            "name": "DR. HARITAMA",
+            "dest": "UIT",
+            "mobile": "9414005563",
+            "landline": "0154-2445067, 0154-2440988",
+            "control_room": "0154-2445071"
+        },
+        {
+            "sno": "32",
+            "district": "Tonk",
+            "name": "SUKHRAM KHOKHAR",
+            "dest": "ADM",
+            "mobile": "9660415829",
+            "landline": "01432-247478",
+            "control_room": "01432-244099"
+        },
+        {
+            "sno": "33",
+            "district": "Udaipur",
+            "name": "O P BUNKAR",
+            "dest": "ADM",
+            "mobile": "9414254639",
+            "landline": "0294-2414620, 0294-2413278",
+            "control_room": "6367304312"
+        }
+    ]
+}

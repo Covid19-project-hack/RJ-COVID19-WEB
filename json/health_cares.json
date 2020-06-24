@@ -1,0 +1,1112 @@
+{
+    "dch": [
+        {
+            "sno": "1",
+            "district": "AJMER",
+            "name": "JLN Medical College, Ajmer (Old Section)",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "2",
+            "district": "AJMER",
+            "name": "Mittal Hospital & Research Center",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "3",
+            "district": "AJMER",
+            "name": "MH",
+            "type": "Central Ministry Hospital"
+        },
+        {
+            "sno": "4",
+            "district": "ALWAR",
+            "name": "Lords Hospital Alwar",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "5",
+            "district": "ALWAR",
+            "name": "Sant Sukhdev Hospital Alwar",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "6",
+            "district": "ALWAR",
+            "name": "RAJIV GANDHI GENERAL HOSPITAL",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "7",
+            "district": "BANSWARA",
+            "name": "MAHATMA GANDHI HOSPITAL, BANSWARA",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "8",
+            "district": "BARAN",
+            "name": "Priya Hospital, Baran",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "9",
+            "district": "BARMER",
+            "name": "PMO Barmer(DH)",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "10",
+            "district": "BHARATPUR",
+            "name": "Jindal Nursing Home",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "11",
+            "district": "BHILWARA",
+            "name": "DH BHILWARA",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "12",
+            "district": "BIKANER",
+            "name": "Super Speciality Block PBM Hospital,Bikaner",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "13",
+            "district": "BUNDI",
+            "name": "PBSS Govt Hopital Bundi (DH)",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "14",
+            "district": "CHITTORGARH",
+            "name": "SSG Govt Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "15",
+            "district": "CHURU",
+            "name": "D. B. Hospital churu",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "16",
+            "district": "DAUSA",
+            "name": "Shri Ramkaran Joshi District Hospital Dausa",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "17",
+            "district": "DHOLPUR",
+            "name": "Government District Hospital Dholpur",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "18",
+            "district": "DUNGARPUR",
+            "name": "Medical collegel Hospital Dungarpur",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "19",
+            "district": "GANGANAGAR",
+            "name": "176 MH",
+            "type": "Central Ministry Hospital"
+        },
+        {
+            "sno": "20",
+            "district": "GANGANAGAR",
+            "name": "jan sewa Hospital tantia Univeraity",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "21",
+            "district": "GANGANAGAR",
+            "name": "District Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "22",
+            "district": "HANUMANGARH",
+            "name": "Hissaria Multispeciality Hospital,\r\nHanumangarh Town",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "23",
+            "district": "HANUMANGARH",
+            "name": "MAHATMA GANDHI MEMORIAL HOSPITAL\r\nHANUMANGARH TOWN",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "24",
+            "district": "JAIPUR",
+            "name": "SMS( Charak Block), Jaipur-I",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "25",
+            "district": "JAIPUR",
+            "name": "Eternal Heart Care Centre, Jaipur - 2",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "26",
+            "district": "JAIPUR",
+            "name": "SHALBY, CHITRAKUT, JAIPUR-I",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "27",
+            "district": "JAIPUR",
+            "name": "C K Birla Hospital ( R B H ), Jaipur - 2",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "28",
+            "district": "JAIPUR",
+            "name": "JNU Hospital, Jaipur - 2",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "29",
+            "district": "JAIPUR",
+            "name": "Mahatama Gandhi Hospital, Jaipur - 2",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "30",
+            "district": "JAIPUR",
+            "name": "Fortis Escorts Hospital, Jaipur - 2",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "31",
+            "district": "JAIPUR",
+            "name": "RUHS, Jaipur-2",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "32",
+            "district": "JAIPUR",
+            "name": "SDMH JAIPUR",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "33",
+            "district": "JAIPUR",
+            "name": "RDBP Jaipuria Hospital (Jaipur-2)",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "34",
+            "district": "JAISALMER",
+            "name": "SHREE JAWAHAR HOSPITAL JAISALMER (DH)",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "35",
+            "district": "JALORE",
+            "name": "Govt. Bhandari General Hospital Jalore",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "36",
+            "district": "JHALAWAR",
+            "name": "S R G HOSPITAL JHALAWAR",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "37",
+            "district": "JHUNJHUNU",
+            "name": "Govt BDK Hospital Jhunjhunu",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "38",
+            "district": "JODHPUR",
+            "name": "AIIMS",
+            "type": "Central Ministry Hospital"
+        },
+        {
+            "sno": "39",
+            "district": "JODHPUR",
+            "name": "MGH Jodhpur",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "40",
+            "district": "JODHPUR",
+            "name": "Mathuradas Mathur Hospital",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "41",
+            "district": "JODHPUR",
+            "name": "MH",
+            "type": "Central Ministry Hospital"
+        },
+        {
+            "sno": "42",
+            "district": "KOTA",
+            "name": "NMCH Hospital, kota",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "43",
+            "district": "NAGAUR",
+            "name": "JLN HOSPITAL NAGAUR",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "44",
+            "district": "PALI",
+            "name": "Government Bangur Hospital, Pali",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "45",
+            "district": "PRATAPGARH",
+            "name": "District Hospital Pratapgarh",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "46",
+            "district": "RAJSAMAND",
+            "name": "R.K. District Hospital Rajsamand",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "47",
+            "district": "RAJSAMAND",
+            "name": "Ananta Medical Collage",
+            "type": "Private Medical College"
+        },
+        {
+            "sno": "48",
+            "district": "SAWAI MADHOPUR",
+            "name": "GENERAL HOSPITAL SAWAI MADHOPUR",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "49",
+            "district": "SIKAR",
+            "name": "GURUKRIPA HOSPITAL RESEARCH CENTRE P\r\nLTD",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "50",
+            "district": "SIKAR",
+            "name": "SB Mittal Hospital, Silver Jublee Road, Sikar\r\nCity",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "51",
+            "district": "SIKAR",
+            "name": "Getwell Hospital & Reaseasrch Centre, Silver\r\nJublee Road, Sikar City",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "52",
+            "district": "SIKAR",
+            "name": "JD hospital Reengus",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "53",
+            "district": "SIKAR",
+            "name": "Separate Wing, Kalyan Arogya Sadan,\r\nSanwali, Sikar",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "54",
+            "district": "SIROHI",
+            "name": "District Hospital, Sirohi",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "55",
+            "district": "UDAIPUR",
+            "name": "SUPER SPECIALITY BUILDING,MBGH",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "56",
+            "district": "UDAIPUR",
+            "name": "Geetanjali Medical College and Hospital\r\nUdaipur",
+            "type": "Private Medical College"
+        }
+    ],
+    "dccc": [
+        {
+            "sno": "1",
+            "district": "AJMER",
+            "name": "Railway",
+            "type": "Hospital"
+        },
+        {
+            "sno": "2",
+            "district": "ALWAR",
+            "name": "Kailash Hospital behror",
+            "type": "Hospital"
+        },
+        {
+            "sno": "3",
+            "district": "ALWAR",
+            "name": "ESIC Bhiwadi",
+            "type": "Central Ministry Hospital"
+        },
+        {
+            "sno": "4",
+            "district": "ALWAR",
+            "name": "ESIC Alwar",
+            "type": "Central Ministry Hospital"
+        },
+        {
+            "sno": "5",
+            "district": "ALWAR",
+            "name": "GALAXY HOSPITAL TATARPUR",
+            "type": "Hospital"
+        },
+        {
+            "sno": "6",
+            "district": "ALWAR",
+            "name": "GOVT NURSING COLLEGE TIJARA",
+            "type": "Hospital"
+        },
+        {
+            "sno": "7",
+            "district": "ALWAR",
+            "name": "CHC PINAN",
+            "type": "Hospital"
+        },
+        {
+            "sno": "8",
+            "district": "ALWAR",
+            "name": "CHC THANAGAZI",
+            "type": "Hospital"
+        },
+        {
+            "sno": "9",
+            "district": "ALWAR",
+            "name": "CHC RAJGARH",
+            "type": "Hospital"
+        },
+        {
+            "sno": "10",
+            "district": "ALWAR",
+            "name": "Sachkhand Hospital Neemrana",
+            "type": "Hospital"
+        },
+        {
+            "sno": "11",
+            "district": "ALWAR",
+            "name": "CHC LAXMANGARH",
+            "type": "Hospital"
+        },
+        {
+            "sno": "12",
+            "district": "ALWAR",
+            "name": "Hari Ram Hospital Bhiwadi",
+            "type": "Hospital"
+        },
+        {
+            "sno": "13",
+            "district": "ALWAR",
+            "name": "CHC KISHANGARH BASS",
+            "type": "Hospital"
+        },
+        {
+            "sno": "14",
+            "district": "ALWAR",
+            "name": "Bansur Hospital and Research Center Bansur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "15",
+            "district": "ALWAR",
+            "name": "CHC BEHROR",
+            "type": "Hospital"
+        },
+        {
+            "sno": "16",
+            "district": "BANSWARA",
+            "name": "CHC Ghatol",
+            "type": "Hospital"
+        },
+        {
+            "sno": "17",
+            "district": "BANSWARA",
+            "name": "CHC Bagidora",
+            "type": "Hospital"
+        },
+        {
+            "sno": "18",
+            "district": "BANSWARA",
+            "name": "CHC Talwara",
+            "type": "Hospital"
+        },
+        {
+            "sno": "19",
+            "district": "BANSWARA",
+            "name": "CHC Partapur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "20",
+            "district": "BANSWARA",
+            "name": "CHC Kushalgarh",
+            "type": "Hospital"
+        },
+        {
+            "sno": "21",
+            "district": "BARAN",
+            "name": "CHC CHHABRA",
+            "type": "Hospital"
+        },
+        {
+            "sno": "22",
+            "district": "BHILWARA",
+            "name": "Gloria Inn",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "23",
+            "district": "BHILWARA",
+            "name": "Shreelok",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "24",
+            "district": "BHILWARA",
+            "name": "Alaska Resort",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "25",
+            "district": "BHILWARA",
+            "name": "Flora Park",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "26",
+            "district": "BHILWARA",
+            "name": "Gulab Bag",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "27",
+            "district": "BHILWARA",
+            "name": "Ashika Resort",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "28",
+            "district": "BHILWARA",
+            "name": "Sona Resort",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "29",
+            "district": "BHILWARA",
+            "name": "Samta Resort",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "30",
+            "district": "BHILWARA",
+            "name": "Sangam University",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "31",
+            "district": "BHILWARA",
+            "name": "Royal Embassy",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "32",
+            "district": "BIKANER",
+            "name": "Community Health Center Nokha",
+            "type": "Hospital"
+        },
+        {
+            "sno": "33",
+            "district": "BIKANER",
+            "name": "Chalana Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "34",
+            "district": "BIKANER",
+            "name": "M N Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "35",
+            "district": "BIKANER",
+            "name": "Fortis DTM",
+            "type": "Hospital"
+        },
+        {
+            "sno": "36",
+            "district": "BIKANER",
+            "name": "Kothari Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "37",
+            "district": "BIKANER",
+            "name": "District Hospital under Medical College\r\nBikaner",
+            "type": "Hospital"
+        },
+        {
+            "sno": "38",
+            "district": "BIKANER",
+            "name": "Community Health Center Sri Dungargarh",
+            "type": "Hospital"
+        },
+        {
+            "sno": "39",
+            "district": "CHITTORGARH",
+            "name": "Birla Hospital & Research Center",
+            "type": "Hospital"
+        },
+        {
+            "sno": "40",
+            "district": "DAUSA",
+            "name": "Hyderabad Dharmsala Balaji",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "41",
+            "district": "DAUSA",
+            "name": "kalkatawali Dharmsala Balaji",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "42",
+            "district": "DAUSA",
+            "name": "Meena hostel Dausa",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "43",
+            "district": "DAUSA",
+            "name": "sarswati collage Dausa",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "44",
+            "district": "DAUSA",
+            "name": "Rajasthan engineer collage Dausa,",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "45",
+            "district": "DHOLPUR",
+            "name": "Shri Agrsen Shiksha Samiti, Dholpur Bypass\r\nRoad, Bari",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "46",
+            "district": "DHOLPUR",
+            "name": "Government ITI Muchkund Road Dholpur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "47",
+            "district": "DHOLPUR",
+            "name": "Government Polytechnic College, Bari Road,\r\nDholpur",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "48",
+            "district": "DHOLPUR",
+            "name": "Government Devnarayan Chhatrawas\r\nKhanpur Bari",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "49",
+            "district": "DUNGARPUR",
+            "name": "M.M. Patidar Hospital, Sagwara",
+            "type": "Hospital"
+        },
+        {
+            "sno": "50",
+            "district": "DUNGARPUR",
+            "name": "Zeel Hospital, Sagwara",
+            "type": "Hospital"
+        },
+        {
+            "sno": "51",
+            "district": "DUNGARPUR",
+            "name": "SDH, SAGWARA Dungarpur",
+            "type": "Hospital"
+        },
+        {
+            "sno": "52",
+            "district": "DUNGARPUR",
+            "name": "CHC Sabla",
+            "type": "Hospital"
+        },
+        {
+            "sno": "53",
+            "district": "DUNGARPUR",
+            "name": "Acharya Mahapragya Eye Hospital, Vagdari",
+            "type": "Hospital"
+        },
+        {
+            "sno": "54",
+            "district": "JAIPUR",
+            "name": "Shri Krishana Hospital (Jaipur-2)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "55",
+            "district": "JAIPUR",
+            "name": "Agrawal Heart & General Hospital (Jaipur-2)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "56",
+            "district": "JAIPUR",
+            "name": "Bhardwaj Hopital, Bagru, Jaipur - 2",
+            "type": "Hospital"
+        },
+        {
+            "sno": "57",
+            "district": "JAIPUR",
+            "name": "CHC Dudu (Jaipur-2)",
+            "type": "Hospital"
+        },
+        {
+            "sno": "58",
+            "district": "JALORE",
+            "name": "Shri Ram Super Speciality Center pvt Ltd\r\nJalore",
+            "type": "Hospital"
+        },
+        {
+            "sno": "59",
+            "district": "JHALAWAR",
+            "name": "Sheela Hospital Bhawani mandi",
+            "type": "Hospital"
+        },
+        {
+            "sno": "60",
+            "district": "JHALAWAR",
+            "name": "L N Multispeciality hospital Jhalawar",
+            "type": "Hospital"
+        },
+        {
+            "sno": "61",
+            "district": "JHALAWAR",
+            "name": "Noon Hospital Bhawanimandi",
+            "type": "Hospital"
+        },
+        {
+            "sno": "62",
+            "district": "JHALAWAR",
+            "name": "ORTHOPEDIC AND TRAUMA CENTRE\r\nJHALAWAR",
+            "type": "Hospital"
+        },
+        {
+            "sno": "63",
+            "district": "JHALAWAR",
+            "name": "Nirogdham Hospital and Research Centre\r\nAklera",
+            "type": "Hospital"
+        },
+        {
+            "sno": "64",
+            "district": "JHALAWAR",
+            "name": "Sardar Patel Multispeciality Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "65",
+            "district": "JHALAWAR",
+            "name": "Navjeevan Hospital Bhawanimandi",
+            "type": "Hospital"
+        },
+        {
+            "sno": "66",
+            "district": "JHUNJHUNU",
+            "name": "Bandhe Ka Balaji",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "67",
+            "district": "JHUNJHUNU",
+            "name": "khemi sati mandir jhunjhunu",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "68",
+            "district": "KOTA",
+            "name": "Maitri Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "69",
+            "district": "KOTA",
+            "name": "Bharat Vikas Parishad, Kota",
+            "type": "Hospital"
+        },
+        {
+            "sno": "70",
+            "district": "KOTA",
+            "name": "ESI Hospital, kota",
+            "type": "Hospital"
+        },
+        {
+            "sno": "71",
+            "district": "KOTA",
+            "name": "Career point University",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "72",
+            "district": "KOTA",
+            "name": "Divisional Railway Hospital",
+            "type": "Hospital"
+        },
+        {
+            "sno": "73",
+            "district": "PRATAPGARH",
+            "name": "Janjati Balak Khel Chhatrawas, Pratapgarh",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "74",
+            "district": "RAJSAMAND",
+            "name": "SDH Nathdwara",
+            "type": "Hospital"
+        },
+        {
+            "sno": "75",
+            "district": "SIROHI",
+            "name": "Jain Teerth Pawapuri, Sirohi",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "76",
+            "district": "SIROHI",
+            "name": "Hotel River View, Jeerawal Road, Reodar",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "77",
+            "district": "SIROHI",
+            "name": "Jain Dharmshal",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "78",
+            "district": "SIROHI",
+            "name": "Jain Teerth, Jeerawar, Reodar",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "79",
+            "district": "SIROHI",
+            "name": "Man Sarovar Abu Road",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "80",
+            "district": "SIROHI",
+            "name": "Agrawal Dharmshala, Pindwara",
+            "type": "Other than Hospital"
+        },
+        {
+            "sno": "81",
+            "district": "UDAIPUR",
+            "name": "ESIC Udaipur",
+            "type": "Central Ministry Hospital"
+        }
+    ],
+    "dchc": [
+        {
+            "sno": "1",
+            "district": "AJMER",
+            "name": "DH Beawar",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "2",
+            "district": "AJMER",
+            "name": "CH",
+            "type": "Central Ministry\r\nHospital"
+        },
+        {
+            "sno": "3",
+            "district": "BARAN",
+            "name": "DISTRICT HOSPITAL Baran",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "4",
+            "district": "BHARATPUR",
+            "name": "RBM Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "5",
+            "district": "BIKANER",
+            "name": "PBM Hospital",
+            "type": "Govt Medical College"
+        },
+        {
+            "sno": "6",
+            "district": "BUNDI",
+            "name": "ANURAG NURSING HOME",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "7",
+            "district": "BUNDI",
+            "name": "BUNDI HOSPITAL AND RESEACH\r\nCENTER",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "8",
+            "district": "CHURU",
+            "name": "SDH RATANGARH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "9",
+            "district": "DHOLPUR",
+            "name": "SDH Bari",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "10",
+            "district": "GANGANAGAR",
+            "name": "SRI GANGANAGAR ARYVEDA\r\nCOLLEGE AND Hospital",
+            "type": "Private Medical\r\nCollege"
+        },
+        {
+            "sno": "11",
+            "district": "HANUMANGARH",
+            "name": "Vivekanand Swasthay Sewa Samiti\r\nHospital, Bhadra",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "12",
+            "district": "HANUMANGARH",
+            "name": "CHC RAWATSAR",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "13",
+            "district": "JAIPUR",
+            "name": "Model ESI, Sodala, Jaipur-I",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "14",
+            "district": "JAIPUR",
+            "name": "Nims Medical College and Hospital,\r\nJaipur-I",
+            "type": "Private Medical\r\nCollege"
+        },
+        {
+            "sno": "15",
+            "district": "JAIPUR",
+            "name": "MANIPAL HOSPITAL",
+            "type": "Private Medical\r\nCollege"
+        },
+        {
+            "sno": "16",
+            "district": "JAIPUR",
+            "name": "CHC Govt. Hospital, Shahpura ,\r\nJaipur-I",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "17",
+            "district": "JAIPUR",
+            "name": "BDM Kotputli, Jaipur-I",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "18",
+            "district": "JAISALMER",
+            "name": "CHC Pokran Jaisalmer",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "19",
+            "district": "JHALAWAR",
+            "name": "Sanjeevni vyas Hospital Anusandhan Kendra Jhalrapatan",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "20",
+            "district": "JHUNJHUNU",
+            "name": "SDH NAWALGARH",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "21",
+            "district": "JHUNJHUNU",
+            "name": "CKRD Hospital Jhunjhunu",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "22",
+            "district": "JODHPUR",
+            "name": "CH",
+            "type": "Central Ministry\r\nHospital"
+        },
+        {
+            "sno": "23",
+            "district": "JODHPUR",
+            "name": "KN. Chest & TB Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "24",
+            "district": "JODHPUR",
+            "name": "Infectious Disease Hospital",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "25",
+            "district": "KARAULI",
+            "name": "Saurabh Hospital Kheda Hindaun\r\nRoad karauli",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "26",
+            "district": "KARAULI",
+            "name": "GENERAL HOSPITAL KARAULI (DH)",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "27",
+            "district": "KOTA",
+            "name": "Divisional Hospital",
+            "type": "Central Ministry\r\nHospital"
+        },
+        {
+            "sno": "28",
+            "district": "NAGAUR",
+            "name": "MANGALAM HOSPITAL LADNUN",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "29",
+            "district": "NAGAUR",
+            "name": "PMO KUCHAMAN (SDH)",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "30",
+            "district": "NAGAUR",
+            "name": "BANGAR HOSPITAL DIDWANA (SDH)",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "31",
+            "district": "PALI",
+            "name": "Sub Divisional Hospital, Sojat City",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "32",
+            "district": "PALI",
+            "name": "Nanesh P.G. Hospital, Pipaliya Kalan,\r\nRaipur",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "33",
+            "district": "PALI",
+            "name": "Community Health Centre, Sadari",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "34",
+            "district": "PALI",
+            "name": "Bhagwan Mahaveer Hospital,\r\nSumerpur",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "35",
+            "district": "PRATAPGARH",
+            "name": "Sky lifeline multispeciality Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "36",
+            "district": "SAWAI MADHOPUR",
+            "name": "Ranthambore Sewika Hospital",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "37",
+            "district": "SAWAI MADHOPUR",
+            "name": "Sub District Hospital Gangapur City",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "38",
+            "district": "SIKAR",
+            "name": "SHRI RAM TRAUMA AND SUPER\r\nSPECIALITY HOSPITAL",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "39",
+            "district": "SIKAR",
+            "name": "Amar Hospital, Fathepur",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "40",
+            "district": "SIKAR",
+            "name": "Sharma Hospital,Neemkathana",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "41",
+            "district": "SIKAR",
+            "name": "Dhayal Hospital & Reasearch\r\nCentere, Reeengus",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "42",
+            "district": "SIROHI",
+            "name": "CHC Sheoganj",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "43",
+            "district": "SIROHI",
+            "name": "RMM Trauma Center Abu Road",
+            "type": "Private Hospitals"
+        },
+        {
+            "sno": "44",
+            "district": "SIROHI",
+            "name": "CHC Pindwara",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "45",
+            "district": "SIROHI",
+            "name": "CHC REODAR",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "46",
+            "district": "TONK",
+            "name": "DH TONK",
+            "type": "Govt Hospitals"
+        },
+        {
+            "sno": "47",
+            "district": "UDAIPUR",
+            "name": "Sharma Hospital",
+            "type": "Private Hospitals"
+        }
+    ]
+}
