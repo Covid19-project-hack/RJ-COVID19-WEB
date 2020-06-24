@@ -15,7 +15,7 @@ $(document).ready(function(){
         return json;
       })();
 
-    faqs =  faqs.faq;
+    faqs =  faqs.data;
     // console.log(faqs);
     faqs.forEach(element => { 
     listgrp.innerHTML+=
